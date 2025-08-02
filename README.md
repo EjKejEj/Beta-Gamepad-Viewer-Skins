@@ -1,6 +1,4 @@
 <p align="left">
 <b>
- <u>
-  LINKS 
- </u> 
+ <u>LINKS</u> 
 </b>
