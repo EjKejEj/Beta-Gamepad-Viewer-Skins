@@ -3,5 +3,5 @@
 
 <a href="https://app.gpv.gg/g/41vUsBzGDr?p=1">NES</a> / <a href="https://app.gpv.gg/g/dfIe1E2qhG?p=1">Famicom</a>
 
-<a href="https://app.gpv.gg/g/Ru3gWLJSw4?p=1">SG-1000</a>
+
 
